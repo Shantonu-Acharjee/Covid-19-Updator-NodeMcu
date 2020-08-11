@@ -10,7 +10,7 @@
   
  
   
-  const char* ssid = "xxxxxxxx";//WIFI SSID Name                             
+  const char* ssid = "xxxxxxxx";//WIFI Name                             
   const char* password = "xxxxxxxx";//WIFI Password
   const char* host = "api.thingspeak.com";  //We read the data from this host                                   
   const int httpPortRead = 80;                                           
