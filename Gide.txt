@@ -1,0 +1,26 @@
+Covid-19 Updater Shantonu Acharjee
+Project Blog Link :- https://tinyurl.com/2atrhujq
+Project Github Link :- https://tinyurl.com/2cf2wpfp
+Project YouTube Link :- https://youtu.be/vQzYmCxpD0E
+
+
+
+
+
+Covid-19 Updater Shantonu Acharjee
+Project Blog Link :- https://tinyurl.com/2atrhujq
+Project Github Link :- https://tinyurl.com/2cf2wpfp
+
+
+তৈরিতে ব্যবহার করা হয়েছে
+NodeMCU
+16 x 2 LCD Display
+Jumper wire
+5 volt Adapter
+Wifi Connection
+
+
+এটা হচ্ছে আমার ২০২০ সালে তৈরীকৃত Covid - 19 নিয়ে প্রজেক্ট। এটাতে যখন পাওয়ার সংযুক্ত করবো, বা পাওয়ায় দিবো, তখন এই প্রজেক্টে থাকা Node MCU মডিউল টি আমাদের বাসার থাকা রাউটার এর সাথে স্বয়ংক্রিয়ভাবে কানেক্ট হয়ে যাবে। কানেক্ট হওয়ার পর সে নেট থেকে ডাটা নিয়ে আমাদের দেখাবে যে, সর্বোমোট কতজন করোনাতে আক্রান্ত হয়েছে, কতজন সুস্থ হয়েছে এবং কতজন মৃত্যু বরন করেছে।
+
+Project Related tags
+Covid-19 Updater Shantonu Acharjee, Node MCU prodect, Covid project, Corona various Project, Shantonu Acharjee, covid 19 project,
